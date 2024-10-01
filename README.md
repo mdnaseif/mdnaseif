@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdnaseif
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Customer Behaviors Understanding Using data
+- 👀 I’m an AI Graduate
+- 🌱 I’m currently working as Gen AI Research Engineer
+- 💞️ I’m looking to collaborate on advanced research algorithms in LLM and Diffusion models
 - 📫 How to reach me My E-mail is --> nasef2002@hotmail.com
 
 <!---
